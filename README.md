@@ -1,4 +1,4 @@
-# AboutMe
+# About Me
 
     👋 Hi, I’m @LinearVoid
     👀 I’m interested in Programming/Writing/ ...
